@@ -1,0 +1,19 @@
+{
+  "name": "Diego",
+  "version": "Diego",
+  "description": "Diego",
+  "main": "Diego",
+  "repository": "Diego",
+  "author": "Diego",
+  "license": "Diego",
+  "private": null,
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.26"
+  }
+}
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
