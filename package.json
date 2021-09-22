@@ -1,19 +1,18 @@
 {
-  "name": "cohuashop-doc",
-  "version": "1",
-  "description": "Documentación de Cohuashop",
-  "main": "main",
-  "repository": "github.com/DiegoET/CohuaShop-Doc",
-  "author": "Diego",
-  "license": "FYG",
-  "private": false,
-  "devDependencies": {
-    "vuepress": "^2.0.0-beta.26"
-  }
-}
-{
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  }
+	"name": "cohuashop-doc",
+	"version": "1",
+	"description": "Documentación de Cohuashop",
+	"main": "main",
+	"repository": "github.com/DiegoET/CohuaShop-Doc",
+	"author": "Diego",
+	"license": "FYG",
+	"private": false,
+	"devDependencies": {
+		"vuepress": "^2.0.0-beta.26"
+	}
+} {
+	"scripts": {
+		"docs:dev": "vuepress dev docs",
+		"docs:build": "vuepress build docs"
+	}
 }
