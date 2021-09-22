@@ -12,8 +12,6 @@
 	},
 	"scripts": {
 		"docs:dev": "vuepress dev docs",
-		"docs:build": "vuepress build docs",
-		"build": "babel src -d lib",
-    	"test": "jest"
+		"docs:build": "vuepress build docs"
 	}
 }
