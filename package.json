@@ -1,12 +1,12 @@
 {
-  "name": "Diego",
-  "version": "Diego",
-  "description": "Diego",
-  "main": "Diego",
-  "repository": "Diego",
+  "name": "cohuashop-doc",
+  "version": "1",
+  "description": "Documentación de Cohuashop",
+  "main": "main",
+  "repository": "Cohuashop-Doc",
   "author": "Diego",
-  "license": "Diego",
-  "private": null,
+  "license": "FYG",
+  "private": false,
   "devDependencies": {
     "vuepress": "^2.0.0-beta.26"
   }
