@@ -1,6 +1,6 @@
 {
 	"name": "cohuashop-doc",
-	"version": "1",
+	"version": "0.1.0",
 	"description": "Documentación de Cohuashop",
 	"main": "main",
 	"repository": "github.com/DiegoET/CohuaShop-Doc",
