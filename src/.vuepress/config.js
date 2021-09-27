@@ -1,6 +1,8 @@
 const { description } = require('../../package')
 
 module.exports = {
+  dest: 'docs',
+  base: '/Cohuashop-doc/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
