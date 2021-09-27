@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/logo.png
 tagline: Manual de configuración
-actionText: Leér manual →
+actionText: Leer manual →
 actionLink: /introduccion/
-footer: Made by F&G Solutions with ❤️
+footer: Creado por FYG Solutions & Frameware Factory con ❤️
 ---
