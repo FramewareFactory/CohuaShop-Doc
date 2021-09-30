@@ -263,3 +263,142 @@ Seleccione la alineación, tamaño y peso que prefiera para el texto.
 <img :src="$withBase('/img/banner-intermedio-11.png')" width="350" height="250" hspace="200" vspace="50">
 
 ## Banner final
+
+Mostrará información cómo la siguiente:
+
+<img :src="$withBase('/img/banner-final-1.png')" width="300" height="200" hspace="200" vspace="50">
+
+Se debe dar click en el recuadro “Arrastra una imagen” (seleccionar 
+la imagen requerida), o arrastrar la imagen y soltarla para que se 
+agregue.
+
+<img :src="$withBase('/img/banner-final-2.png')" width="250" height="250" hspace="200" vspace="50">
+
+Al terminar el proceso, el banner final que el usuario eligió se 
+mostrará de la siguiente forma.
+
+<img :src="$withBase('/img/banner-final-3.png')" width="150" height="400" hspace="250" vspace="50">
+
+La imagen puede ser deslizable o fija, así cómo también se puede 
+mostrar u ocultar, dando click en la opción requerida.
+
+Se puede configurar su altura, dando click en los botones (- o +).
+
+<img :src="$withBase('/img/banner-final-4.png')" width="400" height="150" hspace="200" vspace="50">
+
+Elija la proporción que desee para su Banner final en la versión de 
+escritorio. 
+
+<img :src="$withBase('/img/banner-final-5.png')" width="400" height="200" hspace="200" vspace="50">
+
+Puede agregar una imagen como banner final para la versión de 
+teléfono móvil. Arrastre una imagen o haga click en el recuadro 
+para seleccionar un archivo.
+
+<img :src="$withBase('/img/banner-final-6.png')" width="200" height="400" hspace="250" vspace="50">
+
+Recorte la imagen.
+
+<img :src="$withBase('/img/banner-final-7.png')" width="300" height="300" hspace="200" vspace="50">
+
+Al finalizar el proceso, tendrá la siguiente vista.
+
+<img :src="$withBase('/img/banner-final-8.png')" width="200" height="300" hspace="250" vspace="50">
+
+En caso de necesitarlo, puede escribir un texto para que aparezca 
+en su Banner.
+
+<img :src="$withBase('/img/banner-final-9.png')" width="750" height="100" hspace="0" vspace="50">
+
+Marque si desea mostrarlo u ocultarlo y elija el color que quiere 
+para el texto. 
+
+<img :src="$withBase('/img/banner-final-10.png')" width="350" height="250" hspace="200" vspace="50">
+
+Seleccione la alineación, tamaño y peso que prefiera para el texto.
+
+<img :src="$withBase('/img/banner-final-11.png')" width="350" height="250" hspace="200" vspace="50">
+
+## Banner principal e intermedio en formato de vídeo
+
+Mostrará información cómo la siguiente:
+
+<img :src="$withBase('/img/banner-video-1.png')" width="250" height="150" hspace="200" vspace="50">
+
+Este banner da dos opciones, una es que puedes agregar un video o 
+imagen.
+
+Si su selección es video, en la parte de debajo de la ventana, debe 
+de aparecer la opción para agregar el video y seleccionar la altura del 
+banner que tendrá con los botones (- o +). Para cargar el video se 
+da click en CARGAR VIDEO, selecciona el video a subir (su peso no 
+debe ser mayor a 12 Mb).
+
+<img :src="$withBase('/img/banner-video-2.png')" width="600" height="300" hspace="50" vspace="50">
+
+Para agregar un nuevo video, da click en Cambiar video, selecciona 
+el nuevo video, de igual forma puedes cambiar la altura del banner 
+con los botones (+ o -).
+
+<img :src="$withBase('/img/banner-video-3.png')" width="600" height="300" hspace="50" vspace="50">
+
+El proceso para subir un video como Banner intermedio es similar al 
+que se realiza para el Principal. Cargue los videos de su preferencia 
+y seleccione las opciones pertinentes.
+
+<img :src="$withBase('/img/banner-video-4.png')" width="750" height="350" hspace="0" vspace="50">
+
+## Banner galería
+
+Mostrará información cómo la siguiente:
+
+<img :src="$withBase('/img/banner-galeria-1.png')" width="250" height="150" hspace="250" vspace="50">
+
+Aquí se muestran las opciones “Mostrar/Ocultar” la galería de 
+imágenes que se tiene en la sección Galería.
+
+Si se da la opción de Mostrar, la galería de imágenes debe de 
+aparecer en la página de la tienda debajo de los productos.
+
+<img :src="$withBase('/img/banner-galeria-2.png')" width="750" height="300" hspace="0" vspace="50">
+
+## Banner de sucursales
+
+Mostrará información cómo la siguiente:
+
+<img :src="$withBase('/img/banner-sucursales-1.png')" width="250" height="150" hspace="250" vspace="50">
+
+Aquí se muestra la opción de mostrar en la página de la tienda el 
+mapa de sucursales, de acuerdo con todas las sucursales que se 
+agregan en la sección Sucursales. Si se da la opción de Mostrar, el 
+mapa de sucursales aparece debajo de los productos destacados. Las 
+sucursales se ven marcadas en rojo.
+
+<img :src="$withBase('/img/banner-sucursales-2.png')" width="750" height="350" hspace="0" vspace="50">
+
+:::tip Nota:
+ Para cada una o todas las opciones de las imágenes que se 
+agreguen, no deben de sobrepasar la dimensión recomendada para 
+una mejor visualización.
+:::
+
+Una vez que se realizaron las acciones necesarias, se debe de dar 
+click en el botón inferior derecho (color verde), con el que se 
+guardarán los cambios hechos.
+
+<img :src="$withBase('/img/banner-sucursales-3.png')" width="750" height="350" hspace="0" vspace="50">
+
+Las imágenes se deben de ver en la página principal de la tienda, así 
+como en cada opción en la vista Imágenes. De la siguiente forma:
+
+Si se selecciona imagen en Banner principal.
+
+<img :src="$withBase('/img/banner-sucursales-4.png')" width="750" height="350" hspace="0" vspace="50">
+
+Si se selecciona video en Banner principal.
+
+<img :src="$withBase('/img/banner-sucursales-5.png')" width="750" height="350" hspace="0" vspace="50">
+
+<img :src="$withBase('/img/banner-sucursales-6.png')" width="750" height="350" hspace="0" vspace="0">
+
+<img :src="$withBase('/img/banner-sucursales-7.png')" width="750" height="350" hspace="0" vspace="50">
