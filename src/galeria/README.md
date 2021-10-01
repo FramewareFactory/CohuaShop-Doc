@@ -50,3 +50,83 @@ de imágenes.
 <img :src="$withBase('/img/agregar-galeria-5.png')" width="500" height="300" hspace="100" vspace="50">
 
 ## Activar/Desactivar imagen en Galería
+
+Para activar una imagen en la galería (se muestra en el carrusel de 
+imágenes de la página), se da click en el botón rojo de la imagen a 
+mostrar.
+
+<img :src="$withBase('/img/activar-desactivar-1.png')" width="500" height="300" hspace="100" vspace="50">
+
+Para desactivar una imagen en la galería (no se muestra en el 
+carrusel de imágenes de la página), se da click en el botón verde de 
+la imagen que ya no se necesita.
+
+<img :src="$withBase('/img/activar-desactivar-2.png')" width="500" height="300" hspace="100" vspace="50">
+
+## Cambiar imagen en Galería
+
+Para cambiar una o las imágenes que sean necesarias en la galería, 
+se da click en Cambiar imagen de la o las imágenes a realizar la 
+acción.
+
+Ingresa la imagen de tu preferencia.
+
+<img :src="$withBase('/img/cambiar-imagen-1.png')" width="500" height="300" hspace="100" vspace="50">
+
+## Agregar diseño de Galería
+
+Aquí se pone el color para el fondo de la galería y el color de las 
+flechas de navegación de la galería, así como uno de los dos tipos 
+de diseño de galería.
+
+Para agregar el color de fondo de la galería, selecciona el de tu 
+preferencia.
+
+<img :src="$withBase('/img/agregar-diseño-1.png')" width="500" height="200" hspace="100" vspace="50">
+
+Para agregar el color que tendrá las flechas, selecciona el de tu 
+preferencia.
+
+<img :src="$withBase('/img/agregar-diseño-2.png')" width="500" height="150" hspace="100" vspace="50">
+
+:::tip Nota:
+Para habilitar la paleta de colores del fondo de galería y/o de 
+las flechas de navegación, dé click en el cuadro rectangular y 
+seleccione el color de su preferencia.
+:::
+
+<img :src="$withBase('/img/agregar-diseño-3.png')" width="750" height="250" hspace="0" vspace="50">
+
+Selecciona el tipo de galería (Galería simple o Galería con vistas en 
+miniatura). La “Galería simple”, para imágenes que se muestren 
+como un carrusel. La “Galería con vistas en miniatura”, para 
+imágenes que se muestren 1 por 1 y en miniatura.
+
+<img :src="$withBase('/img/agregar-diseño-4.png')" width="400" height="300" hspace="150" vspace="50">
+
+Da click en Guardar estilo de galería (botón color azul) para que se 
+guarden los cambios.
+
+<img :src="$withBase('/img/agregar-diseño-5.png')" width="500" height="200" hspace="150" vspace="50">
+
+## Editar diseño de Galería
+
+Se puede hacer el cambio de tipo de diseño de galería seleccionando 
+el tipo que se requiera, y/o cambiando el color de fondo de galería, 
+y/o cambiando los colores de flecha de navegación de la galería.
+
+Hecho los cambios necesarios se da click en Guardar estilo de galería 
+(botón color azul).
+
+<img :src="$withBase('/img/editar-diseño-1.png')" width="750" height="250" hspace="0" vspace="50">
+
+Los cambios hechos se deben de ver en la página principal de la 
+tienda, debajo de los productos destacados.
+
+Diseño: Galería simple.
+
+<img :src="$withBase('/img/editar-diseño-2.png')" width="750" height="300" hspace="0" vspace="50">
+
+Diseño: Galería con vistas en miniatura.
+
+<img :src="$withBase('/img/editar-diseño-3.png')" width="750" height="350" hspace="0" vspace="50">
