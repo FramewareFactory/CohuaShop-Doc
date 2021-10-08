@@ -15,7 +15,7 @@ La vista será la siguiente.
 
 <img :src="$withBase('/img/lista-de-catalogos-2.png')" width="400" height="350" hspace="150" vspace="50">
 
-Visualizará las categorías en la “Lista de catálogos”: País de origen, 
+Visualizará las categorías en la **“Lista de catálogos”**: País de origen, 
 Etiquetas, Unidades de medida, Proveedores, IVA, Variantes, etc.
 
 <img :src="$withBase('/img/lista-de-catalogos-3.png')" width="250" height="500" hspace="200" vspace="50">

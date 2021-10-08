@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'CohuaShop',
+  title: 'Cohua Shop',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,6 +34,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Contacto',
+        link: '/contacto/'
+      },
+      {
         text: 'cohuashop.com',
         link: 'https://cohuashop.com'
       }
@@ -41,6 +45,7 @@ module.exports = {
     sidebar: [
       '/introduccion/',
       '/acceso-al-sistema/',
+      '/medios-de-pago/',
       '/mi-perfil/',
       '/configuracion-general/',
       '/logos-y-banners/',
@@ -56,7 +61,8 @@ module.exports = {
       '/sucursales/',
       '/newsletter/',
       '/envios/',
-      '/ventas/'
+      '/ventas/',
+      '/contacto/'
     ]
   },
 

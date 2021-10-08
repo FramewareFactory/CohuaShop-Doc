@@ -35,13 +35,13 @@ dar click en el botón Guardar (color azul).
 <img :src="$withBase('/img/editar-proveedor-5.png')" width="200" height="100" hspace="250" vspace="50">
 
 En caso de que se quiera establecer a proveedores principales, 
-seleccionar el botón “Mostrar en página”.
+seleccionar el botón **“Mostrar en página”**.
 
 <img :src="$withBase('/img/editar-proveedor-6.png')" width="300" height="500" hspace="200" vspace="50">
 
 Los cambios hechos se verán reflejados en el panel de configuración 
 de la tienda o, en caso de que se estableciera a algún proveedor 
-principal, se verán en la sección de “Marcas” en la página web de la
+principal, se verán en la sección de **“Marcas”** en la página web de la
 tienda (se recomienda que la imagen del proveedor tenga el nombre 
 de la marca).
 

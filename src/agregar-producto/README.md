@@ -50,7 +50,7 @@ catálogos).
 
 * Contiene Variantes (apartado opcional dependiendo de las 
 necesidades del producto), si es que se marca la sección 
-“Producto” desaparecerá.
+**“Producto”** desaparecerá.
 
 <img :src="$withBase('/img/pestaña-informacion-6.png')" width="400" height="100" hspace="150" vspace="50">
 
@@ -171,7 +171,7 @@ de dar click en el botón Guardar información (color azul).
 
 <img :src="$withBase('/img/pestaña-informacion-28.png')" width="750" height="350" hspace="0" vspace="0">
 
-* Se muestra el mensaje “Tarjeta actualizada”. 
+* Se muestra el mensaje **“Tarjeta actualizada”**. 
 
 <img :src="$withBase('/img/pestaña-informacion-29.png')" width="300" height="100" hspace="200" vspace="50">
 
@@ -197,7 +197,7 @@ botón Guardar Información (color azul).
 
 <img :src="$withBase('/img/pestaña-atributos-4.png')" width="300" height="100" hspace="200" vspace="50">
 
-Se muestra el mensaje “Tarjeta actualizada”. 
+Se muestra el mensaje **“Tarjeta actualizada”**. 
 
 <img :src="$withBase('/img/pestaña-atributos-5.png')" width="300" height="100" hspace="200" vspace="50">
 
@@ -221,7 +221,7 @@ click en el botón Guardar Información (color azul).
 
 <img :src="$withBase('/img/pestaña-adicional-3.png')" width="300" height="100" hspace="200" vspace="50">
 
-Se mostrará el mensaje “Tarjeta actualizada”.
+Se mostrará el mensaje **“Tarjeta actualizada”**.
 
 <img :src="$withBase('/img/pestaña-adicional-4.png')" width="300" height="100" hspace="200" vspace="50">
 
@@ -249,7 +249,7 @@ que se requieren, se da click en Guardar (botón de color azul).
 
 <img :src="$withBase('/img/pestaña-seleccion-4.png')" width="750" height="250" hspace="0" vspace="50">
 
-Se muestra el mensaje “Tarjeta actualizada”. 
+Se muestra el mensaje **“Tarjeta actualizada”**. 
 
 <img :src="$withBase('/img/pestaña-seleccion-5.png')" width="300" height="100" hspace="200" vspace="50">
 
@@ -429,6 +429,6 @@ de dar click en el botón Guardar información (color azul).
 
 <img :src="$withBase('/img/variantes-atributos-16.png')" width="750" height="450" hspace="0" vspace="0">
 
-* Se muestra el mensaje “Tarjeta actualizada”. 
+* Se muestra el mensaje **“Tarjeta actualizada”**. 
 
 <img :src="$withBase('/img/variantes-atributos-17.png')" width="300" height="100" hspace="200" vspace="50">

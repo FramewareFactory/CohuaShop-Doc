@@ -98,8 +98,8 @@ seleccione el color de su preferencia.
 <img :src="$withBase('/img/agregar-diseño-3.png')" width="750" height="250" hspace="0" vspace="50">
 
 Selecciona el tipo de galería (Galería simple o Galería con vistas en 
-miniatura). La “Galería simple”, para imágenes que se muestren 
-como un carrusel. La “Galería con vistas en miniatura”, para 
+miniatura). La **“Galería simple”**, para imágenes que se muestren 
+como un carrusel. La **“Galería con vistas en miniatura”**, para 
 imágenes que se muestren 1 por 1 y en miniatura.
 
 <img :src="$withBase('/img/agregar-diseño-4.png')" width="400" height="300" hspace="150" vspace="50">

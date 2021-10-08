@@ -16,7 +16,7 @@ Mostrará información como la siguiente:
 
 <img :src="$withBase('/img/icono-tabulador-1.png')" width="250" height="150" hspace="250" vspace="50">
 
-Se debe dar click en el recuadro “Arrastra una imagen” (seleccionar 
+Se debe dar click en el recuadro **“Arrastra una imagen”** (seleccionar 
 la imagen requerida), o arrastrar la imagen y soltarla para que se 
 agregue.
 
@@ -43,7 +43,7 @@ Mostrará información cómo la siguiente:
 
 <img :src="$withBase('/img/logo-principal-1.png')" width="250" height="100" hspace="250" vspace="50">
 
-Se debe dar click en el recuadro “Arrastra una imagen” (seleccionar 
+Se debe dar click en el recuadro **“Arrastra una imagen”** (seleccionar 
 la imagen requerida), o arrastrar la imagen y soltarla para que se 
 agregue.
 
@@ -60,7 +60,7 @@ Mostrará información cómo la siguiente:
 
 <img :src="$withBase('/img/banner-principal-1.png')" width="200" height="200" hspace="250" vspace="50">
 
-Se debe dar click en el recuadro “Arrastra una imagen” (seleccionar 
+Se debe dar click en el recuadro **“Arrastra una imagen”** (seleccionar 
 la imagen requerida), o arrastrar la imagen y soltarla para que se 
 agregue.
 
@@ -113,7 +113,7 @@ Mostrará información cómo la siguiente:
 
 <img :src="$withBase('/img/footer-1.png')" width="350" height="200" hspace="200" vspace="50">
 
-Se debe dar click en el recuadro “Arrastra una imagen” (seleccionar 
+Se debe dar click en el recuadro **“Arrastra una imagen”** (seleccionar 
 la imagen requerida), o arrastrar la imagen y soltarla para que se 
 agregue.
 
@@ -154,7 +154,7 @@ Mostrará información cómo la siguiente:
 
 <img :src="$withBase('/img/banner-secundario-1.png')" width="250" height="250" hspace="250" vspace="50">
 
-Se debe dar click en el recuadro “Arrastra una imagen” (seleccionar 
+Se debe dar click en el recuadro **“Arrastra una imagen”** (seleccionar 
 la imagen requerida), o arrastrar la imagen y soltarla para que se 
 agregue.
 
@@ -211,7 +211,7 @@ Mostrará información cómo la siguiente:
 
 <img :src="$withBase('/img/banner-intermedio-1.png')" width="300" height="200" hspace="200" vspace="50">
 
-Se debe dar click en el recuadro “Arrastra una imagen” (seleccionar 
+Se debe dar click en el recuadro **“Arrastra una imagen”** (seleccionar 
 la imagen requerida), o arrastrar la imagen y soltarla para que se 
 agregue.
 
@@ -268,7 +268,7 @@ Mostrará información cómo la siguiente:
 
 <img :src="$withBase('/img/banner-final-1.png')" width="300" height="200" hspace="200" vspace="50">
 
-Se debe dar click en el recuadro “Arrastra una imagen” (seleccionar 
+Se debe dar click en el recuadro **“Arrastra una imagen”** (seleccionar 
 la imagen requerida), o arrastrar la imagen y soltarla para que se 
 agregue.
 
@@ -354,7 +354,7 @@ Mostrará información cómo la siguiente:
 
 <img :src="$withBase('/img/banner-galeria-1.png')" width="250" height="150" hspace="250" vspace="50">
 
-Aquí se muestran las opciones “Mostrar/Ocultar” la galería de 
+Aquí se muestran las opciones **“Mostrar/Ocultar”** la galería de 
 imágenes que se tiene en la sección Galería.
 
 Si se da la opción de Mostrar, la galería de imágenes debe de 

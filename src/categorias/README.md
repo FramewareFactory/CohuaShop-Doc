@@ -18,7 +18,7 @@ Se obtiene la siguiente vista:
 <img :src="$withBase('/img/agregar-categoria-2.png')" width="400" height="300" hspace="150" vspace="50">
 
 Si se requiere agregar la imagen de la categoría en el apartado 
-“Imagen página principal”, se sube o se arrastra la imagen en el 
+**“Imagen página principal”**, se sube o se arrastra la imagen en el 
 recuadro que aparece a continuación.
 
 <img :src="$withBase('/img/agregar-categoria-3.png')" width="300" height="300" hspace="200" vspace="50">
@@ -43,8 +43,8 @@ se da click en el botón Guardar (botón azul inferior derecho).
 
 <img :src="$withBase('/img/agregar-categoria-7.png')" width="500" height="150" hspace="100" vspace="50">
 
-Los cambios hechos se pueden ver en la vista “Administración de 
-categorías”, en el menú de navegación de la página web y en la 
+Los cambios hechos se pueden ver en la vista **“Administración de categorías”**,
+en el menú de navegación de la página web y en la 
 página principal si se escogió como categoría o subcategoría 
 destacada.
 

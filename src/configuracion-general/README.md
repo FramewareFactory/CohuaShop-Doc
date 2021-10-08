@@ -27,7 +27,7 @@ web.
 
 Eslogan: Escriba el eslogan de su empresa, este podrá o no ser 
 visualizado en la página según la elección del usuario (véase la 
-sección “Configuración del banner principal”).
+sección **“Configuración del banner principal”**).
 
 <img :src="$withBase('/img/ejemplo-de-llenado-de-datos-3.png')" width="500" height="100" hspace="100" vspace="50">
 
@@ -37,7 +37,7 @@ Texto del botón del carrito: De acuerdo con el que elija el usuario.
 
 Texto del segundo botón de la tienda: Agregue el texto para el 
 segundo botón de la tienda, este botón aparece al final de la página 
-en “Productos destacados”.
+en **“Productos destacados”**.
 
 <img :src="$withBase('/img/ejemplo-de-llenado-de-datos-5.png')" width="550" height="100" hspace="100" vspace="50">
 
@@ -59,7 +59,7 @@ a la venta.
 <img :src="$withBase('/img/ejemplo-de-llenado-de-datos-9.png')" width="900" height="350" hspace="0" vspace="50">
 
 Selección del segundo botón: aquí se hace la redirección del botón 
-“Texto del segundo botón de la tienda”, esto quiere decir, cuando se 
+**“Texto del segundo botón de la tienda”**, esto quiere decir, cuando se 
 dé click en el botón (que está en la página principal de la tienda) te 
 mandará a una de las secciones que se tienen registradas y que están
 habilitadas (en Secciones).
