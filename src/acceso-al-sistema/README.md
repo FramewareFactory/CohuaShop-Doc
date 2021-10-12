@@ -16,7 +16,7 @@ deben de agregar de forma correcta las credenciales
 proporcionadas).
 :::
 
-<img :src="$withBase('/img/iniciar-sesion-2.png')" width="300" height="100" hspace="150" vspace="50">
+<img :src="$withBase('/img/iniciar-sesion-2.png')" width="420" height="100" hspace="150" vspace="50">
 
 Una vez que el usuario acceda de forma correcta, entrará a la vista
 **“Lista de productos”** que contiene lo siguiente:

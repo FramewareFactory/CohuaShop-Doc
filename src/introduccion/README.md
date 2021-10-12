@@ -4,6 +4,7 @@
 sitio web para vender productos o promocionar servicios de una forma
 sencilla y amigable. Los usuarios adquirirán una plataforma accesible 
 para conseguir el máximo rendimiento en sus proyectos. 
+
 **Cohua Shop** brinda un servicio enfocado en la personalización, 
 flexibilidad y, sobre todo, ofrece la posibilidad de ajustar sus 
 funcionalidades a las necesidades, solicitudes y personalidad de cada 
