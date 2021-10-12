@@ -1,6 +1,6 @@
 # Mi perfil
 
-## Congigurar perfil de usuario
+## Configurar perfil de usuario
 
 En la parte superior izquierda, seleccione la barra horizontal (este
 paso se debe repetir para navegar en las diferentes secciones de la

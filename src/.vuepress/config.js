@@ -45,7 +45,6 @@ module.exports = {
     sidebar: [
       '/introduccion/',
       '/acceso-al-sistema/',
-      '/medios-de-pago/',
       '/mi-perfil/',
       '/configuracion-general/',
       '/logos-y-banners/',
@@ -61,6 +60,7 @@ module.exports = {
       '/sucursales/',
       '/newsletter/',
       '/envios/',
+      '/medios-de-pago/',
       '/ventas/',
       '/contacto/'
     ]
