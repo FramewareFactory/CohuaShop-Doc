@@ -14,6 +14,6 @@ al usuario tener una página web profesional sin la necesidad de ser un
 experto; **Cohua Shop** promete las soluciones digitales que cualquier 
 tipo de negocio requiere actualmente.
 
-Texto informativo
+
 
 <img :src="$withBase('/img/introduccion.png')" width="250" height="250" hspace="250" vspace="0">
