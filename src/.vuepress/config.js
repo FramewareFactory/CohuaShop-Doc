@@ -43,6 +43,7 @@ module.exports = {
       }
     ],
     sidebar: [
+      '/Manual de info/',
       '/introduccion/',
       '/acceso-al-sistema/',
       '/mi-perfil/',
