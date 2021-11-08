@@ -1,4 +1,4 @@
-# Manual de infografías
+# Infografías
 
 <img :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0001.jpg')">
 
