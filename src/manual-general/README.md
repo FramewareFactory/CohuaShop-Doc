@@ -16,7 +16,7 @@ al usuario tener una página web profesional sin la necesidad de ser un
 experto; **Cohua Shop** promete las soluciones digitales que cualquier 
 tipo de negocio requiere actualmente.
 
-<img :src="$withBase('/img/introduccion.png')" width="250" height="250" hspace="250" vspace="0">
+![img](/img/introduccion.png =250x250)
 
 ## Acceso al sistema
 
@@ -27,7 +27,7 @@ enlace: [https://admin.cohuashop.com/](https://admin.cohuashop.com/)
 
 Ingresa tu correo y contraseña que usaste para crear tu cuenta.
 
-<img :src="$withBase('/img/iniciar-sesion-1.png')" width="300" height="300" hspace="150" vspace="50">
+![img](/img/iniciar-sesion-1.png =300x300)
 
 ::: tip Nota:
 En caso de que el usuario agregue mal sus datos se mostrará
@@ -35,13 +35,11 @@ el siguiente mensaje en la parte superior derecha del login (se
 deben de agregar de forma correcta las credenciales
 proporcionadas).
 :::
-
-<img :src="$withBase('/img/iniciar-sesion-2.png')" width="420" height="100" hspace="150" vspace="50">
+![img](/img/iniciar-sesion-2.png =420x100)
 
 Una vez que el usuario acceda de forma correcta, entrará a la vista
 **“Lista de productos”** que contiene lo siguiente:
-
-<img :src="$withBase('/img/iniciar-sesion-3.png')" width="700" height="350" hspace="0" vspace="50">
+![img](/img/iniciar-sesion-3.png =700x350)
 
 ## Mi perfil
 
