@@ -152,7 +152,7 @@
 
 ## Configuración de producto
 
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0065.webp')"//>
+<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0065.webp')"/>
 
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0066.webp')"/>
 
