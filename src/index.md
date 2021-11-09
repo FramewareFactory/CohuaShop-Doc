@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.png
-tagline: Manuales de configuración
-actionText: Leer manuales →
+tagline: Documentación
+actionText: Empecemos →
 actionLink: /manual-general/
 ---
