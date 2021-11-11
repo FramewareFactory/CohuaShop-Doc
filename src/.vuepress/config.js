@@ -38,7 +38,7 @@ module.exports = {
         link: '/manual-general/'
       },
       {
-        text: 'Infografías',
+        text: 'Manual Gráfico',
         link: '/infografias/'
       },
       {

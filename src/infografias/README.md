@@ -1,4 +1,4 @@
-# Infografías
+# Manual Gráfico
 
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0001.webp')"/>
 
