@@ -46,6 +46,10 @@ module.exports = {
         link: '/primeros-pasos/'
       },
       {
+        text: 'Brief',
+        link: '/brief/'
+      },
+      {
         text: 'cohuashop.com',
         link: 'https://cohuashop.com'
       }
@@ -53,7 +57,8 @@ module.exports = {
     sidebar: [
       '/manual-general/',
       '/infografias/',
-      '/primeros-pasos/'
+      '/primeros-pasos/',
+      '/brief/'
     ]
   },
 
