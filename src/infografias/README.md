@@ -4,22 +4,6 @@
 
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0002.webp')"/>
 
-## Medios de pago Configuración
-
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0003.webp')"/>
-
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0004.webp')"/>
-
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0005.webp')"/>
-
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0006.webp')"/>
-
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0007.webp')"/>
-
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0008.webp')"/>
-
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0009.webp')"/>
-
 ## Mi perfil
 
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0010.webp')"/>
@@ -219,6 +203,22 @@
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0091.webp')"/>
 
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0092.webp')"/>
+
+## Medios de pago Configuración
+
+<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0003.webp')"/>
+
+<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0004.webp')"/>
+
+<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0005.webp')"/>
+
+<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0006.webp')"/>
+
+<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0007.webp')"/>
+
+<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0008.webp')"/>
+
+<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0009.webp')"/>
 
 ## Ventas
 
