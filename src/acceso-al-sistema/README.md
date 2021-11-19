@@ -21,4 +21,4 @@ proporcionadas).
 Una vez que el usuario acceda de forma correcta, entrará a la vista
 **“Lista de productos”** que contiene lo siguiente:
 
-<img :src="$withBase('/img/iniciar-sesion-3.png')" width="700" height="350" hspace="0" vspace="50">
+<img :src="$withBase('/img/acceso-al-sistema.png.png')" width="700" height="350" hspace="0" vspace="50">
