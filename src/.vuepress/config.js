@@ -34,8 +34,20 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Contacto',
-        link: '/contacto/'
+        text: 'Manual General',
+        link: '/manual-general/'
+      },
+      {
+        text: 'Manual Gráfico',
+        link: '/infografias/'
+      },
+      {
+        text: 'Primeros Pasos',
+        link: '/primeros-pasos/'
+      },
+      {
+        text: 'Brief',
+        link: '/brief/'
       },
       {
         text: 'cohuashop.com',
@@ -43,26 +55,10 @@ module.exports = {
       }
     ],
     sidebar: [
-      '/introduccion/',
-      '/acceso-al-sistema/',
-      '/mi-perfil/',
-      '/configuracion-general/',
-      '/logos-y-banners/',
-      '/galeria/',
-      '/categorias/',
-      '/catalogos/',
-      '/proveedores-clientes/',
-      '/agregar-producto/',
-      '/lista-de-productos-servicios/',
-      '/secciones/',
-      '/redes-sociales/',
-      '/promociones/',
-      '/sucursales/',
-      '/newsletter/',
-      '/envios/',
-      '/medios-de-pago/',
-      '/ventas/',
-      '/contacto/'
+      '/manual-general/',
+      '/infografias/',
+      '/primeros-pasos/',
+      '/brief/'
     ]
   },
 
@@ -72,5 +68,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    'img-lazy',
   ]
 }
