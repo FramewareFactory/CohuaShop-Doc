@@ -86,11 +86,11 @@ Dar click en **“Actualizar contraseña”**.
 En la parte superior izquierda, seleccione la barra horizontal, dar click 
 en Sistema y seleccione Configuración general.
 
-<img-lazy :src="$withBase('/img/configuracion-general-1.png')" width="200" height="500" hspace="200" vspace="50"/>
+<img-lazy :src="$withBase('/img/configuracion-general-1.png')" width="200" height="500" hspace="250" vspace="50"/>
 
 Se abrirá la siguiente vista.
 
-<img-lazy :src="$withBase('/img/configuracion-general-2.png')" width="700" height="500" hspace="0" vspace="50"/>
+<img-lazy :src="$withBase('/img/configuracion-general-2.png')" width="750" height="450" hspace="0" vspace="50"/>
 
 ### Ejemplo de llenado de datos
 
@@ -158,12 +158,14 @@ Email para notificaciones
 Escriba el correo electrónico en donde quiere que se le notifique 
 sobre las acciones que se realicen en su página web.
 
-<img-lazy :src="$withBase('/img/ejemplo-de-llenado-de-datos-11.png')" width="500" height="100" hspace="100" vspace="50"/>
+<img-lazy :src="$withBase('/img/ejemplo-de-llenado-de-datos-11.png')" width="350" height="100" hspace="150" vspace="50"/>
 
 Título de la sección de productos destacados
 
-Escriba el correo electrónico en donde quiere que se le notifique 
-sobre las acciones que se realicen en su página web.
+Escriba el título que quiera que aparezca arriba de los productos
+que marque como destacados.
+
+<img-lazy :src="$withBase('/img/Titulo de botones destacados.png')" width="350" height="100" hspace="150" vspace="50"/>
 
 ### Mostrar u ocultar información, color y fuente del sitio web
 
@@ -189,6 +191,13 @@ Centrado).
 
 <img-lazy :src="$withBase('/img/mostrar-u-ocultar-informacion-4.png')" width="300" height="250" hspace="200" vspace="50"/>
 
+Título de la sección de categorías destacadas
+
+Puede modificar el título que aparecerá arriba de sus categorías
+destacadas.
+
+<img-lazy :src="$withBase('/img/Título de categorías destacadas.png')" width="350" height="100" hspace="200" vspace="50"/>
+
 <img-lazy :src="$withBase('/img/mostrar-u-ocultar-informacion-5.png')" width="900" height="500" hspace="0" vspace="0"/>
 
 Mostrar u ocultar los botones de autodesplazamiento.
@@ -208,12 +217,13 @@ O se puede activar el tipo de compra mediante Carrito de compras
 (activando esta función), y cuando ya no se quiera esta función 
 desactivarla.
 
+También puede seleccionar si quiere vender a usuarios anónimos
+(son personas que no se registrarían a su sitio web para realizar
+una compra).
+
 <img-lazy :src="$withBase('/img/mostrar-u-ocultar-informacion-8.png')" width="500" height="150" hspace="100" vspace="50"/>
 
-::: tip Nota:
-Solo se puede activar una de las dos opciones de compra o 
-desactivar las dos opciones si es que no es necesaria esta opción.
-:::
+<img-lazy :src="$withBase('/img/Venta a usuarios anónimos.png')" width="500" height="150" hspace="100" vspace="50"/>
 
 Seleccione el tipo de envío que prefiera, ya sea por código postal o 
 por estado. 
@@ -249,7 +259,7 @@ tienda virtual.
 Una vez que se ingresen los datos necesarios y obligatorios se da 
 click en el botón Guardar.
 
-<img-lazy :src="$withBase('/img/catalogo-virtual-4.png')" width="250" height="100" hspace="200" vspace="50"/>
+<img-lazy :src="$withBase('/img/Guardar.png')" width="100" height="100" hspace="250" vspace="50"/>
 
 Los cambios hechos en la Configuración de la Tienda se verán 
 reflejados en la pantalla principal de su página web.
@@ -271,6 +281,8 @@ Seleccione si desea mostrar u ocultar la información adicional de su
 página y la selección rápida.
 
 <img-lazy :src="$withBase('/img/configuracion-de-productos-1.png')" width="750" height="150" hspace="0" vspace="50"/>
+
+<img-lazy :src="$withBase('/img/Moneda del percio.png')" width="500" height="100" hspace="100" vspace="50"/>
 
 Elija el orden de sus categorías destacadas, decida si desea activar o 
 desactivar dichas categorías destacadas para que aparezcan en 
@@ -702,6 +714,13 @@ Si se selecciona video en Banner principal.
 <img-lazy :src="$withBase('/img/banner-sucursales-6.png')" width="750" height="350" hspace="0" vspace="0"/>
 
 <img-lazy :src="$withBase('/img/banner-sucursales-7.png')" width="750" height="350" hspace="0" vspace="50"/>
+
+### Banner HTML
+
+Si lo desea puede crear un banner en formato HMTL para hacer de su
+página un entorno más profesional.
+
+<img-lazy :src="$withBase('/img/Banner HTML.png')" width="750" height="450" hspace="0" vspace="50"/>
 
 ## Galeria
 
@@ -1635,6 +1654,14 @@ imagen dando click en el ícono de una foto.
 
 <img-lazy :src="$withBase('/img/secciones-5.png')" width="750" height="500" hspace="0" vspace="50"/>
 
+<img-lazy :src="$withBase('/img/Seccion icono.png')" width="250" height="100" hspace="200" vspace="50"/>
+
+Si así lo desea puede agregar contenido HTML a su sección y,
+asimismo, puede subir una imagen o archivo directamente desde el
+recuadro en color gris. Su imagen deberá pesar menos de 6 Mb.
+
+<img-lazy :src="$withBase('/img/Seccion HTML imagen.png')" width="750" height="350" hspace="0" vspace="50"/>
+
 Se debe de habilitar o deshabilitar la sección antes de guardar 
 cambios.
 
@@ -2045,43 +2072,6 @@ ingrese los datos como nombre o correo y dé click en el botón Buscar.
 
 ## Envíos
 
-### Catálogo
-
-En esta sección puede visualizar los catálogos para sus envíos, como 
-son precio y tiempos de envío. Tiene la posibilidad de agregar 
-elementos o editarlos.
-
-<img-lazy :src="$withBase('/img/envios-1.png')" width="750" height="300" hspace="0" vspace="50"/>
-
-Para agregar o editar oprima los botones que están del lado derecho.
-
-<img-lazy :src="$withBase('/img/envios-2.png')" width="750" height="300" hspace="0" vspace="50"/>
-
-Al seleccionar un botón se abrirá una pequeña ventana del lado 
-derecho. En el caso de que quiera agregar.
-
-<img-lazy :src="$withBase('/img/envios-3.png')" width="750" height="250" hspace="0" vspace="50"/>
-
-En el caso de que quiera agregar un elemento para el precio de envío, 
-ingrese los datos y oprima el botón verde con un +.
-
-<img-lazy :src="$withBase('/img/envios-4.png')" width="750" height="300" hspace="0" vspace="50"/>
-
-Para editar un elemento presione el botón azul y del lado derecho 
-aparecerán los elementos que ha subido previamente.
-
-<img-lazy :src="$withBase('/img/envios-5.png')" width="750" height="250" hspace="0" vspace="50"/>
-
-Seleccione la figura del lápiz de color azul del elemento en el que 
-quiera realizar la edición.
-
-<img-lazy :src="$withBase('/img/envios-6.png')" width="750" height="250" hspace="0" vspace="50"/>
-
-Aparecerá una venta como la siguiente. Para guardar los cambios, 
-presione el botón azul que dice Editar.
-
-<img-lazy :src="$withBase('/img/envios-7.png')" width="500" height="250" hspace="100" vspace="50"/>
-
 ### Reglas de envíos
 
 En esta sección podrá visualizar las reglas que usted a marcado para 
@@ -2120,40 +2110,70 @@ personalizada en la sección que se marca en la imagen:
 En la barra lateral izquierda seleccione Medios de Pago y haga 
 click en Configuración.
 
+:::tip Nota:
+Nota: Esta etapa es obligatoria si quiere realizar ventas desde su página
+web, ya que a través de sus medios de pago se le harán llegar los pagos
+que se realicen desde su sitio web.
+:::
+
 <img-lazy :src="$withBase('/img/medios-de-pago-1.png')" width="250" height="400" hspace="200" vspace="0"/>
 
 Después obtendrá la siguiente vista:
 
-<img-lazy :src="$withBase('/img/medios-de-pago-2.png')" width="700" height="350" hspace="0" vspace="0"/>
+<img-lazy :src="$withBase('/img/metodo de pago 1.png')" width="750" height="200" hspace="0" vspace="50"/>
+
+ Seleccione su Régimen Fiscal y seleccione al Manager de su página 
+web. Después dé click en el botón de Guardar información.
+
+<img-lazy :src="$withBase('/img/metodo de pago 2.png')" width="750" height="200" hspace="0" vspace="50"/>
+
+<img-lazy :src="$withBase('/img/metodo de pago 3.png')" width="750" height="200" hspace="0" vspace="0"/>
 
 Agregue su información de contacto: nombre completo, teléfono, 
 fecha de nacimiento y suba la imagen de su identificación oficial.
-Después dé click en el botón azul Guardar información. 
+
+Después dé click en el botón azul Guardar información.
+
+<img-lazy :src="$withBase('/img/metodo de pago 4.png')" width="750" height="350" hspace="0" vspace="50"/>
+
 Entrará al apartado de datos fiscales, deberá añadir los datos 
 pertinentes para su facturación: giro del comercio, teléfono, su 
 número de RFC y la imagen del mismo.
 
-<img-lazy :src="$withBase('/img/medios-de-pago-3.png')" width="650" height="300" hspace="50" vspace="50"/>
-
 Después dé click en el botón azul Guardar información.
+
+<img-lazy :src="$withBase('/img/metodo de pago 5.png')" width="750" height="350" hspace="0" vspace="50"/>
+
 Entrará al apartado de dirección, por favor agregue los datos
 correspondientes a su domicilio: código postal, colonia, calle, número
 exterior y, en caso de aplicar, número interior. Finalmente, agregue
 una imagen de su comprobante de domicilio.
 
-<img-lazy :src="$withBase('/img/medios-de-pago-4.png')" width="650" height="350" hspace="50" vspace="50"/>
+<img-lazy :src="$withBase('/img/metodo de pago 6.png')" width="750" height="350" hspace="0" vspace="50"/>
 
 Después dé click en el botón azul Guardar información.
+
 Entrará al apartado de cuenta bancaria, ingrese los datos
 correspondientes: cuenta clabe, número de cuenta, seleccione el
 banco y suba una imagen referente a su estado de cuenta.
+
 Marque la casilla en donde acepta los términos y condiciones de
 **Cohua Shop** y Feenecia.
+
 Dé click en el botón de Guardar Información.
+
 Después de unos minutos le llegará un correo electrónico de
 confirmación al mail que le brindó a **Cohua Shop**.
 
-<img-lazy :src="$withBase('/img/medios-de-pago-5.png')" width="650" height="500" hspace="50" vspace="50"/>
+<img-lazy :src="$withBase('/img/metodo de pago 7.png')" width="750" height="350" hspace="0" vspace="50"/>
+
+<img-lazy :src="$withBase('/img/metodo de pago 8.png')" width="350" height="300" hspace="150" vspace="0"/>
+
+:::tip Nota:
+Es necesario que active su cuenta a través del correo electrónico que 
+se le envió. Se estará validando su información en un lapso no mayor a 72 
+horas y posteriormente podrá recibir pagos realizados en su sitio web.
+:::
 
 ## Ventas
 
@@ -2241,6 +2261,41 @@ documento de hojas de cálculo con la información referente a sus
 ventas realizadas.
 
 <img-lazy :src="$withBase('/img/ventas-12.png')" width="750" height="150" hspace="0" vspace="50"/>
+
+## Analytics
+
+En este apartado usted podrá ver las estadísticas de las ventas que
+se han generado.
+
+<img-lazy :src="$withBase('/img/analytics-1.png')" width="750" height="350" hspace="0" vspace="50"/>
+
+Puede filtrar la información de sus ventas para ver la información que
+requiera.
+
+<img-lazy :src="$withBase('/img/analytics-2.png')" width="450" height="250" hspace="150" vspace="50"/>
+
+También podrá observar los datos de sus ventas generadas.
+
+<img-lazy :src="$withBase('/img/analytics-3.png')" width="750" height="100" hspace="0" vspace="50"/>
+
+Puede ver la representación gráfica de sus ventas generadas.
+
+<img-lazy :src="$withBase('/img/analytics-4.png')" width="750" height="200" hspace="0" vspace="50"/>
+
+Asimismo, puede usar las acciones que se encuentran a un lado de la
+gráfica. Las opciones + y – pueden usarse para modificar la
+visualización gráfica de las fechas, la opción de lupa se puede usar
+para hacer Zoom en la gráfica, la mano se puede utilizar para mover
+a su preferencia la gráfica, el botón en forma de “Casa” se puede usar
+para reestablecer el Zoom al que estaba por defecto y la barra de
+rayas que está a lado es donde podrá descargar su información (ya
+sea en formato SVG, PNG o CSV).
+
+<img-lazy :src="$withBase('/img/analytics-5.png')" width="300" height="600" hspace="200" vspace="50"/>
+
+De igual forma, podrá ver la gráfica por el tipo de venta realizada en su sitio web.
+
+<img-lazy :src="$withBase('/img/analytics-6.png')" width="750" height="150" hspace="0" vspace="50"/>
 
 ## Contacto
 

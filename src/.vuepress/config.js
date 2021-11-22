@@ -39,7 +39,7 @@ module.exports = {
       },
       {
         text: 'Manual Gráfico',
-        link: '/infografias/'
+        link: '/manual-grafico/'
       },
       {
         text: 'Primeros Pasos',
@@ -56,7 +56,7 @@ module.exports = {
     ],
     sidebar: [
       '/manual-general/',
-      '/infografias/',
+      '/manual-grafico/',
       '/primeros-pasos/',
       '/brief/'
     ]

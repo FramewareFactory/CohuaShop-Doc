@@ -242,8 +242,6 @@
 
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0100.webp')"/>
 
-<img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0101.webp')"/>
-
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0102.webp')"/>
 
 <img-lazy :src="$withBase('/Manual de info/Manual de infografías - Cohua Shop_page-0103.webp')"/>
